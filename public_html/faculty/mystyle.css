@@ -1,0 +1,329 @@
+                 *{
+                        padding: 25px;
+                        font-family: 'Muli', sans-serif;
+                }
+                
+                .header{
+                        background-image: url(photos/header.jpg);
+						background-repeat: no-repeat;
+						width: 883px;
+						height: 400px;
+						margin: -28px 0px -218px 72px;
+						font-size: 250%;
+						padding: 37px;
+                       
+                }
+                #parah{
+                        
+                         font-family: 'Muli', sans-serif;
+                         font-family: 'Lobster', cursive;
+                         margin-left: -44px;
+                }
+                
+                .image1{
+						background-image:url("photos/faculty1.png");
+						width: 82px;
+						height: 82px;
+						margin: 56px 0px 0px 54px;
+				}
+				
+				.details1{
+					
+						     margin: -226px -24px -138px  148px;
+
+				}
+				#det1{
+					padding: 0px;
+					margin: -15px 0px -25px 25px;
+				}
+				
+				#hod1{
+					   
+					text-decoration: none;
+					font-family:  cursive;
+				}
+				
+				#ref1{
+					    margin: -24px;
+						text-decoration: none;
+						font-family:  cursive;
+				}
+				
+				.MailLogo1{
+					background: url("photos/mail.png") no-repeat 0px 10px;
+					background-size: 55px 45px;
+				}
+				.image2{
+						background-image:url("photos/faculty2.jpg");
+						width: 82px;
+						height: 82px;
+						margin: 56px 0px 0px 54px;
+					
+				}
+				
+				.details2{
+					 margin: -226px -24px -138px 148px;
+				}
+				
+				#det2{
+					padding: 0px;
+					margin: -15px 0px -25px 25px;
+				}
+				
+				#prof2{
+					    
+					text-decoration: none;
+					font-family:  cursive;
+				}
+				#ref2{
+					    margin: -24px;
+						text-decoration: none;
+						font-family:  cursive;
+				}
+				
+				.MailLogo2{
+					background: url(photos/mail.png) no-repeat 0px 10px;
+					background-size: 55px 45px;
+				}
+				
+				.image3{
+						background-image:url("photos/faculty3.png");
+						width: 82px;
+						height: 82px;
+						margin: 56px 0px 0px 54px;
+					
+				}
+				
+				.details3{
+					 margin: -226px -24px -138px 148px;
+				}
+				
+				#det3{
+					padding: 0px;
+					margin: -15px 0px -23px 25px;
+				}
+				
+				#prof3{
+					    
+					text-decoration: none;
+					font-family:  cursive;
+				}
+				#ref3{
+					    margin: -24px;
+						text-decoration: none;
+						font-family:  cursive;
+				}
+				.MailLogo3{
+					background: url(photos/mail.png) no-repeat 0px 10px;
+					background-size: 55px 45px;
+				}/* 
+				#mail3{
+					
+					    background-image: url(../ait/mail.png);
+						background-repeat: no-repeat;
+						background-size: 52px 47px;
+						
+				} */
+				.image4{
+						background-image:url("photos/faculty4.jpg");
+						width: 82px;
+						height: 82px;
+						margin: 56px 0px 0px 54px;
+					
+				}
+				
+				.details4{
+					 margin: -226px -24px -138px 148px;
+				}
+				
+				#det4{
+					padding: 0px;
+					margin: -15px 0px -25px 25px;
+				}
+				
+				#prof4{
+					    
+					text-decoration: none;
+					font-family:  cursive;
+				}
+				
+				#ref4{
+					    margin: -24px;
+						text-decoration: none;
+						font-family:  cursive;
+				}
+				.MailLogo4{
+					background: url(photos/mail.png) no-repeat 0px 10px;
+					background-size: 55px 45px;
+				}
+				.image5{
+						background-image:url("photos/faculty5.jpg");
+						width: 82px;
+						height: 82px;
+						margin: 56px 0px 0px 54px;
+					
+				}
+				
+				.details5{
+					 margin: -226px -24px -138px 148px;
+				}
+				
+				#det5{
+					padding: 0px;
+					margin: -15px 0px -25px 25px;
+				}
+				
+				#prof5{
+					    
+					text-decoration: none;
+					font-family:  cursive;
+				}
+				#ref5{
+					    margin: -24px;
+						text-decoration: none;
+						font-family:  cursive;
+				}
+				
+				.MailLogo5{
+					background: url(photos/mail.png) no-repeat 0px 10px;
+					background-size: 55px 45px;
+				}
+				.image6{
+						background-image:url("photos/faculty6.png");
+						width: 82px;
+						height: 82px;
+						margin: 56px 0px 0px 54px;
+					
+				}
+				
+				.details6{
+					 margin: -226px -24px -138px 148px;
+				}
+				
+				#det6{
+					padding: 0px;
+					margin: -15px 0px -25px 25px;
+				}
+				
+				#prof6{
+					    
+					text-decoration: none;
+					font-family:  cursive;
+				}
+				#ref6{
+					    margin: -24px;
+						text-decoration: none;
+						font-family:  cursive;
+				}
+				
+				.MailLogo6{
+					background: url(photos/mail.png) no-repeat 0px 10px;
+					background-size: 55px 45px;
+				}
+				.image7{
+						background-image:url("photos/faculty7.jpg");
+						width: 82px;
+						height: 82px;
+						margin: 56px 0px 0px 54px;
+					
+				}
+				
+				.details7{
+					 margin: -226px -24px -138px 148px;
+				}
+				
+				#det7{
+					padding: 0px;
+					margin: -15px 0px -25px 25px;
+				}
+				
+				#prof7{
+					    
+					text-decoration: none;
+					font-family:  cursive;
+				}
+				#ref7{
+					    margin: -24px;
+						text-decoration: none;
+						font-family:  cursive;
+				}
+				
+				.MailLogo7{
+					background: url("photos/mail.png") no-repeat 0px 10px;
+					background-size: 55px 45px;
+				}
+				.image8{
+						background-image:url("photos/faculty8.jpg");
+						width: 82px;
+						height: 82px;
+						margin: 56px 0px 0px 54px;
+					
+				}
+				
+				.details8{
+					 margin: -226px -24px -138px 148px;
+				}
+				
+				#det8{
+					padding: 0px;
+					margin: -15px 0px -25px 25px;
+				}
+				
+				#prof8{
+					    
+					text-decoration: none;
+					font-family:  cursive;
+				}
+				#ref8{
+					    margin: -24px;
+						text-decoration: none;
+						font-family:  cursive;
+				}
+				
+				.MailLogo8{
+					background: url("photos/mail.png") no-repeat 0px 10px;
+					background-size: 55px 45px;
+				}
+				
+				.image9{
+						background-image:url("photos/faculty9.png");
+						width: 82px;
+						height: 82px;
+						margin: 56px 0px 0px 54px;
+					
+				}
+				
+				.details9{
+					 margin: -226px -24px -138px 148px;
+				}
+				
+				#det9{
+					padding: 0px;
+					margin: -15px 0px -25px 25px;
+				}
+				
+				#prof9{
+					    
+					text-decoration: none;
+					font-family:  cursive;
+				}
+				#ref9{
+					    margin: -24px;
+						text-decoration: none;
+						font-family:  cursive;
+				}
+				
+				.MailLogo9{
+					background: url("photos/mail.png") no-repeat 0px 10px;
+					background-size: 55px 45px;
+				}
+				
+				
+				
+				
+				
+				
+				.footer{
+					background-color: honeydew;
+					
+				}

@@ -1,0 +1,66 @@
+table {
+                border-collapse: collapse;
+                width: 100%;
+            }
+
+            th, td {
+                text-align: center;
+                padding: 8px;
+                padding: 10px;
+                border-bottom: 1px solid #ddd;
+                font-size: large;
+            }
+
+            tr:nth-child(even){background-color:#f2f2f2 }
+
+            th {
+                background-color: #4CAF50;
+                color: white;
+                text-align: center;
+            }
+	
+
+
+				p {
+    				background-color: white;
+				  }
+				ul {
+				list-style-type: none;
+	   			margin: 0;
+	    			padding: 0;
+	    			overflow: hidden;
+	    			background:LightBlue;
+				   }
+				li{
+				float: center;
+  				  }
+				  .button1{
+				  border-radius: 50px;
+				  width: 15%;
+				  }
+				  
+				.button:active:after {
+					padding: 0;
+					margin: 0;
+					opacity: 1;
+					transition: 0s
+				
+				}
+				#button2{
+					border-radius: 50px;
+				 width: 15%;
+				}
+
+			        body{ 
+                                background-image: url("8.JPG");
+                                background-repeat: no-repeat;
+                                background-attachment: fixed;
+                                background-size: cover;
+                                    }
+
+                                .intro{
+                                color:Ivory ;
+                                      }
+                                .other{
+                                color:LemonChiffon ;
+                                      }
